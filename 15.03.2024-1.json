@@ -1,0 +1,26 @@
+{
+    "name": "Gloria Villanueva",
+    "age": 29,
+    "address": {
+        "street": "Joseph Trace",
+        "city": "Lake Stephanie",
+        "state": "Colorado",
+        "zip": "25407"
+    },
+    "contact": {
+        "phone": "385.988.1870x985",
+        "servicePhone": "800694773"
+    },
+    "birthday": "1995-06-12",
+    "ip": "209.144.219.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Figure subject sell stop science owner. On tend drug store.\nEvery agency talk bit glass.",
+        "bio": "Near business believe far area toward. How protect among cost. Theory movement natural conference describe for go whether."
+    },
+    "apiKey": "1b4de1fca66856b1f8bb1b4c8832e0a83db054772ae1c4c146e460f06ae82b0d",
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
