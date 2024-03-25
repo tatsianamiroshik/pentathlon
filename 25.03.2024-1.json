@@ -1,0 +1,26 @@
+{
+    "name": "Anthony Combs",
+    "age": 58,
+    "address": {
+        "street": "Ashley Roads",
+        "city": "Lake Heidistad",
+        "state": "Louisiana",
+        "zip": "59610"
+    },
+    "contact": {
+        "phone": "001-542-770-5442x9623",
+        "servicePhone": "800320509"
+    },
+    "birthday": "1966-20-08",
+    "ip": "21.67.109.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Campaign different down hope us conference account last. Eat record without two all. Specific natural foot.",
+        "bio": "Way his seven teacher. Professor gun step. Movement then else yes item.\nPart lay quality score. Pattern himself suddenly form economic buy fire."
+    },
+    "apiKey": "1abf9be4126b728ff7d3089656f2cab552e2aa62ea3f8e8d978b86c1209e4052",
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
