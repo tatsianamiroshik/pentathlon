@@ -1,0 +1,26 @@
+{
+    "name": "John Jacobson",
+    "age": 26,
+    "address": {
+        "street": "Thomas Street",
+        "city": "East Elizabethton",
+        "state": "Rhode Island",
+        "zip": "89405"
+    },
+    "contact": {
+        "phone": "001-982-766-8981",
+        "servicePhone": "800023031"
+    },
+    "birthday": "1998-20-12",
+    "ip": "35.175.108.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Prove will skill statement. Outside court vote opportunity. Simply close security ever mean debate.\nResponse process sing leg. Those also structure over.",
+        "bio": "Toward stop question reality reveal star leader. Thus seek seem factor. Eight spend animal power message toward green."
+    },
+    "apiKey": "3b8db385ac7af7c28030619850071edb7ef3a22ebcb372bca184e178bf20d78c",
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
