@@ -1,0 +1,26 @@
+{
+    "name": "Mallory Bauer",
+    "age": 25,
+    "address": {
+        "street": "Robert Island",
+        "city": "Shawnaberg",
+        "state": "Idaho",
+        "zip": "11479"
+    },
+    "contact": {
+        "phone": "+1-226-496-3234x74880",
+        "servicePhone": "800104406"
+    },
+    "birthday": "1999-21-11",
+    "ip": "14.89.196.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Economic firm southern per. Well authority door official rather idea. Training follow which brother everyone spend series glass.",
+        "bio": "View relationship moment here fill. Force on address say they stock across trip.\nPlant executive election why. Hospital other evening before make wife look."
+    },
+    "apiKey": "8288084a85c71b1c5a6fa5b2c9b0238925b217e85e3b249a97bd42c78b3e6a32",
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
