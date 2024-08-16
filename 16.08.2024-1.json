@@ -1,0 +1,26 @@
+{
+    "name": "Brittany Henderson",
+    "age": 94,
+    "address": {
+        "street": "Marshall Field",
+        "city": "Richardsonmouth",
+        "state": "California",
+        "zip": "73136"
+    },
+    "contact": {
+        "phone": "+1-712-224-7875x424",
+        "servicePhone": "800199426"
+    },
+    "birthday": "1930-27-03",
+    "ip": "205.143.136.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Yes economic book above. On born fire white soldier reveal live. Window this marriage ground large.\nExample southern laugh really. Local including few community sure.",
+        "bio": "Hard reason up source. Thousand speech commercial hot next town life discover. Pay several outside tell. Hand face improve section image.\nSource rich already late reveal. Thousand PM join."
+    },
+    "apiKey": "8db8c788cf7cfa76c9b4cca2628a11436b5351d72f737744dcb26ea7db7ae60c",
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
