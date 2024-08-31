@@ -1,0 +1,26 @@
+{
+    "name": "Eric Johnson",
+    "age": 95,
+    "address": {
+        "street": "Daniels Estate",
+        "city": "West Joannland",
+        "state": "Alabama",
+        "zip": "44622"
+    },
+    "contact": {
+        "phone": "(666)938-6061x6515",
+        "servicePhone": "800273366"
+    },
+    "birthday": "1929-14-02",
+    "ip": "47.12.204.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Face network oil know rock. Ground work hear manage sister. Low town movie age at.\nRemain require true. Law eat thank fish believe pattern. Red article effect according thank director.",
+        "bio": "Whom card significant debate close score change. Management course party daughter too your attack month. Give stop she ago likely executive sure. Work music wear southern individual staff never."
+    },
+    "apiKey": "b2ca747d2d3a41f4077aab1db72c5cb11914db8009d1aa4d6abe91cd339e0b0a",
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
