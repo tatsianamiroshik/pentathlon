@@ -1,0 +1,26 @@
+{
+    "name": "Thomas Gould",
+    "age": 43,
+    "address": {
+        "street": "Le Wells",
+        "city": "Taylorstad",
+        "state": "Delaware",
+        "zip": "88493"
+    },
+    "contact": {
+        "phone": "001-348-896-2976x900",
+        "servicePhone": "800568606"
+    },
+    "birthday": "1981-20-12",
+    "ip": "62.3.211.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Reflect hear remember at agent. Response election system rather which recent or.\nDinner main often challenge visit relate. Since explain with data tough.",
+        "bio": "Beautiful child risk for work step system recently. Home hundred their democratic let.\nContinue rate report story actually itself recognize. Debate material rise record."
+    },
+    "apiKey": "f682cb4dc3500768a775b375f106967ea51cdc5f0551ff0f121f62a925ae66c6",
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
