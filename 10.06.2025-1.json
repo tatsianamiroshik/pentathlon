@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Ortiz",
+    "age": 113,
+    "address": {
+        "street": "Antonio Fort",
+        "city": "Port Brian",
+        "state": "Delaware",
+        "zip": "01888"
+    },
+    "contact": {
+        "phone": "+1-910-675-9113x38537",
+        "servicePhone": "800955015"
+    },
+    "birthday": "1912-15-08",
+    "ip": "124.75.166.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Child Democrat history seem. Decision light reason agree writer entire job many. Despite institution business.",
+        "bio": "Season law democratic own growth arrive nor. This edge national. Move believe become discuss they my man arm."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
