@@ -1,0 +1,25 @@
+{
+    "name": "Laura Cline",
+    "age": 35,
+    "address": {
+        "street": "Harris Vista",
+        "city": "West Ruben",
+        "state": "Minnesota",
+        "zip": "87926"
+    },
+    "contact": {
+        "phone": "(798)568-9717",
+        "servicePhone": "800188179"
+    },
+    "birthday": "1990-01-01",
+    "ip": "54.204.255.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Reflect other dinner pretty show of effect. Local instead talk enter. Kind central analysis base.\nMore first various kind receive. Sea able without edge the.\nPopulation drive pass fish success.",
+        "bio": "Participant toward little interesting writer military. Eye family develop friend art identify.\nGrow up organization business large again."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
