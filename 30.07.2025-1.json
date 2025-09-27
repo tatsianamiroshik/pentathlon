@@ -1,0 +1,25 @@
+{
+    "name": "Meghan Cline",
+    "age": 28,
+    "address": {
+        "street": "Kimberly Walk",
+        "city": "Chapmanberg",
+        "state": "New Mexico",
+        "zip": "68089"
+    },
+    "contact": {
+        "phone": "001-546-389-4035x7631",
+        "servicePhone": "800890808"
+    },
+    "birthday": "1997-29-01",
+    "ip": "185.89.194.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Magazine the notice design expert cup. Position church policy soldier case somebody bit. Plant determine analysis.",
+        "bio": "Agent here receive long resource speak. Water soldier project guess before place budget. Score without must sit cause everything."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
