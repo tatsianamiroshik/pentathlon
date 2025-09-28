@@ -1,0 +1,25 @@
+{
+    "name": "Heather Morris",
+    "age": 47,
+    "address": {
+        "street": "Rose Cape",
+        "city": "Lake Matthew",
+        "state": "Wyoming",
+        "zip": "24590"
+    },
+    "contact": {
+        "phone": "001-333-426-9952",
+        "servicePhone": "800646215"
+    },
+    "birthday": "1978-02-04",
+    "ip": "215.151.210.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting shoulder doctor peace home. Article light relationship. Job attack employee would question social.\nDown note product party bag. Heart war only black. Thus property dark surface everyone.",
+        "bio": "Song early now time news unit thing. Ten student let.\nMyself fill marriage. Support discussion quickly fear stuff father site."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
